@@ -11,8 +11,8 @@ hero:
       text: Get Started
       link: /get-started
     - theme: alt
-      text: Demo
-      link: https://demo.performance.wtf
+      text: Github
+      link: https://github.com/v182/nero
 
 features:
   
