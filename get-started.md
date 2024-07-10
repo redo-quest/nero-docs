@@ -10,7 +10,7 @@ Install pm2. (Guide below.)
 
 //Step 03:
 cd
-git clone https://github.com/v182/nero nero
+git clone https://github.com/redo-quest/nero nero
 cd nero
 
 //Now change settings.yml to your likings (required: panel url & api key)
