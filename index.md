@@ -12,7 +12,7 @@ hero:
       link: /get-started
     - theme: alt
       text: Github
-      link: https://github.com/v182/nero
+      link: https://github.com/redo-quest/nero
 
 features:
   
